@@ -9,6 +9,7 @@ int main()
 
     std::cout << "LC1D_16_ササノミカゼ\n";
 
+    std::cout << "Player作成\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
